@@ -1,3 +1,10 @@
+# CrowdSynthetic – AI Crowd Safety Simulator
+
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+
+
+
 # CrowdSynthetic – Concert Crowd Simulation (POC)
 
 CrowdSynthetic is a proof-of-concept simulation for monitoring crowd density and risk in a concert-style layout.  
